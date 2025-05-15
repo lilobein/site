@@ -43,7 +43,8 @@ header_image: "/images/tachka.png"
 </div>
 
 
-## Такой дисбаланс создает серьезные операционные трудности
+Можно заметить, что большинтсво людей предпочитают дистанционное взаимодействие личному присутствию. Такой дисбаланс создает серьезные операционные трудности
+
 <div class="problem-statement pa4 bg-light-gray">
   <h2 class="f3">Ключевые проблемы</h2>
   <ul class="problem-list">
@@ -52,3 +53,8 @@ header_image: "/images/tachka.png"
     <li> <strong>Неравномерная нагрузка</strong> - Центральные техцентры перегружены</li>
   </ul>
 </div>
+
+## Наш проект - решение этих проблем 
+
+
+<a href="/about/" style="text-decoration:none; color:#000000; background-color:#cfb4a1; padding:5px 10px; border-radius:3px; border:1px solid #d0d0d0; transition:all 0.3s ease;">О проекте</a>
